@@ -1,4 +1,4 @@
-package com.hasish.inheritance.utility;
+package com.hasish.utility;
 
 import java.util.Scanner;
 
